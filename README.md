@@ -10,7 +10,7 @@
 
 
 
-系統分析與設計：ApacheServer + Navicat 8 for MySQL
+系統分析與設計：Apache + Navicat 8 for MySQL
 
 測試方法：Mocha
 
